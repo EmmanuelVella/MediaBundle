@@ -7,7 +7,6 @@
 
     <document
         name="Symfony\Cmf\Bundle\MediaBundle\Doctrine\Phpcr\Image"
-        node-type="nt:file"
         >
 
         <field name="width" type="int"/>
